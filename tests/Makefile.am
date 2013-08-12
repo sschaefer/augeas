@@ -176,6 +176,7 @@ lens_tests =			\
   lens-stunnel.sh			\
   lens-subversion.sh		\
   lens-sysconfig.sh		\
+  lens-sysconfig_route.sh		\
   lens-syslog.sh		\
   lens-sysctl.sh		\
   lens-systemd.sh		\
